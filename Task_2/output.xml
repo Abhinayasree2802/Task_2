@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Document>
+    <Metadata>
+        <Title>Document Title</Title>
+        <Author>Author Name</Author>
+        <Date>Date of Document</Date>
+    </Metadata>
+    <Content>
+        <Section>
+            <Title>目次/Index</Title>
+        </Section>
+        <Section>
+            <Title>１．開発の狙い/Development Objectives</Title>
+        </Section>
+        <Section>
+            <Title>1.1 開発コンセプト/Development Concept</Title>
+        </Section>
+        <Section>
+            <Title>1.2 セリングポイント/Selling Points</Title>
+        </Section>
+        <Section>
+            <Title>２．概要/Summary</Title>
+        </Section>
+        <Section>
+            <Title>2.1 アウターミラー仕様一覧/ Specifications of Outer mirror</Title>
+        </Section>
+        <Section>
+            <Title>2.2 アウターミラー構成部品・仕様別意匠</Title>
+        </Section>
+        <Section>
+            <Title>Component Parts and Style design of Outer mirror</Title>
+        </Section>
+        <Section>
+            <Title>2.3 インナーミラー仕様一覧/ Specifications of Inner mirror</Title>
+        </Section>
+        <Section>
+            <Title>３．詳細/Details</Title>
+        </Section>
+        <Section>
+            <Title>3.1 Aピラー視認性 / A-pillar visibility</Title>
+        </Section>
+        <Section>
+            <Title>3.2 風切音 / Wind noise</Title>
+        </Section>
+        <Section>
+            <Title>1．開発の狙い/Development Objectives</Title>
+            <Paragraph>
+                <Sentence>風切り音や意匠性についても優れた形状を実現しながら、</Sentence>
+                <Sentence>同時にアウターミラー ・インナーミラー の本来の役割である後方視認性を</Sentence>
+                <Sentence>高いレベルで発揮することを目指しました。</Sentence>
+                <Sentence>We realize the shape with improved wind noise and good design.</Sentence>
+                <Sentence>At the same time, we aimed to show the rear visibility, at a high level.</Sentence>
+            </Paragraph>
+        </Section>
+        <Section>
+            <Title>1.1開発コンセプト/Development Concept</Title>
+        </Section>
+        <Section>
+            <Title>1.2セリングポイント/Selling Points</Title>
+            <Paragraph>
+                <Sentence>①SUV らしい力強さ / 広さを感じる外観　 SUV-like strength / Outview that feels spacious</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>アウターミラー性能と力強さを両立  / Outer mirror performance and design strength</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>力強い意匠を維持しつつ、 A ピラー視認性や風切音を考慮したアウターミラー配置  /</Sentence>
+                <Sentence>Outer mirrors are placed in consideration of A-pillar visibility and wind noise while maintaining a strong design.</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>風切音を軽減するためにサイドドアガラスから離した位置にアウターミラーを配置した。</Sentence>
+                <Sentence>また、 A ピラーの死角を小さくするために後方視認性を確保しつつ、</Sentence>
+                <Sentence>アウターミラーを後方に配置した。</Sentence>
+                <Sentence>To reduce wind noise, the outer mirrors were positioned away from the side door glass.</Sentence>
+                <Sentence>In addition, to reduce the blind spot of the A-pillar, while ensuring rearward visibility,</Sentence>
+                <Sentence>the outer mirror is positioned at the rear.</Sentence>
+            </Paragraph>
+        </Section>
+        <Section>
+            <Title>2．概要/Summary</Title>
+        </Section>
+        <Section>
+            <Title>2.1 アウターミラー仕様一覧/ Specifications of Outer mirror</Title>
+        </Section>
+        <Section>
+            <Title>2.2 アウターミラー構成部品・仕様別意匠</Title>
+            <Paragraph>
+                <Sentence>足元照明無・サイドカメラ無仕様</Sentence>
+                <Sentence>Without LOGO lamp and side camera</Sentence>
+            </Paragraph>
+        </Section>
+        <Section>
+            <Title>Component Parts and Style design of Outer mirror</Title>
+            <Paragraph>
+                <Sentence>足元照明有・サイドカメラ無仕様</Sentence>
+                <Sentence>With LOGO lamp</Sentence>
+                <Sentence>Without side camera</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>LOGO   LAMP</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>足元照明有・サイドカメラ有仕様</Sentence>
+                <Sentence>With LOGO lamp and side camera</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>SIDE   CAMERA</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>LOGO   LAMP</Sentence>
+            </Paragraph>
+        </Section>
+        <Section>
+            <Title>2.3 インナーミラー仕様一覧/ Specifications of Inner mirror</Title>
+        </Section>
+        <Section>
+            <Title>3．詳細/Details</Title>
+            <Paragraph>
+                <Sentence>Fr ドアガーニッシュ後端をできるだけ前方に寄せて、 A ピラーから離れた位置にミラーを</Sentence>
+                <Sentence>配置することで、 A ピラーによる死角を小さくした。</Sentence>
+                <Sentence>⇒ 交差点 で 12km/h の自転車を視認できる 。（図 1 ）</Sentence>
+                <Sentence>The blind spot caused by the a-pillar is reduced by placing the outer mirror as far away</Sentence>
+                <Sentence>from the a-pillar as possible, with the rear edge of the  fr   door   garnish   as far forward as possible.</Sentence>
+                <Sentence>⇒ A bicycle can be seen at 12 km/h at an intersection.  (Fig. 1)</Sentence>
+            </Paragraph>
+        </Section>
+        <Section>
+            <Title>3.1 Aピラー視認性 / A-pillar visibility</Title>
+            <Paragraph>
+                <Sentence>自転車などを視認するのに必要なエリア</Sentence>
+                <Sentence>/ A rea required for visibility of bicycles, etc</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>アウターミラー  /</Sentence>
+                <Sentence>OUTER  MIRROR</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>A ピラー  / A   PILLAR</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>12km/h</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>図 1 　出会い頭 × 自転車</Sentence>
+                <Sentence>Fig. 1 ENCOUNTER X BICYCLE</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>Fr ドアガーニッシュ /  FR   DOOR   GARNISH</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>走行中の風切り音低減の為、アウターミラーをガラス面より号口より離した位置に</Sentence>
+                <Sentence>配置することで、風の入口と出口のサイズ差を減らして風切り発生音を低減しました。</Sentence>
+                <Sentence>（ビル風のイメージで風の入口より出口が小さいと風速が 早く なる）</Sentence>
+                <Sentence>（風切り音の音量は、風速の６乗に比例）</Sentence>
+                <Sentence>The outer mirror is placed away from the glass surface to reduce wind speed while driving.</Sentence>
+                <Sentence>By arranging them, the difference in size between the inlet and outlet of the wind was reduced,</Sentence>
+                <Sentence>and the wind noise generated was reduced.</Sentence>
+            </Paragraph>
+        </Section>
+        <Section>
+            <Title>3.2 風切音 / Wind noise</Title>
+            <Paragraph>
+                <Sentence>アウターミラーをガラスから離した位置に配置することで、</Sentence>
+                <Sentence>100km/h 走行時のアウター周りの最大風速を 550B より</Sentence>
+                <Sentence>4.4 ％低減した。   /</Sentence>
+                <Sentence>By positioning outer mirrors away from the glass, the</Sentence>
+                <Sentence>maximum wind speed around the outer area at 100 km/h</Sentence>
+                <Sentence>has been reduced by 4.4% compared to the 550B.</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>UPR</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>WIND SPEED</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>SLOW</Sentence>
+            </Paragraph>
+            <Paragraph>
+                <Sentence>FAST</Sentence>
+            </Paragraph>
+        </Section>
+    </Content>
+</Document>
